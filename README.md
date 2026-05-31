@@ -1,21 +1,42 @@
 ﻿# Governance Tech Showcase
 
-A public technical showcase demonstrating enterprise software patterns learned through hands-on application development.
+A collection of architecture patterns, analytics concepts, testing strategies, and governance-oriented technology practices developed through enterprise software experience.
 
-## Focus Areas
+This repository highlights approaches to building secure, auditable, and operationally effective systems using modern application development, cloud technologies, automated testing, and data-driven decision support.
 
+## Areas of Interest
+
+- Enterprise Architecture
 - ASP.NET Core MVC
 - Entity Framework Core
-- PostgreSQL concepts
-- Playwright automated testing
-- Role-based access patterns
-- Append-only audit trails
-- Operational analytics
-- Cloud deployment concepts
-- Governance-oriented system design
+- PostgreSQL
+- Automated Testing (Playwright)
+- Audit Logging
+- Operational Analytics
+- Cloud Deployment
+- Governance-Oriented System Design
 
-## Confidentiality Notice
+- ## Professional Evolution
 
-These examples are educational demonstrations only.
+My technology interests have consistently focused on solving operational and community challenges through software, analytics, workflow design, and governance.
 
-They do not contain production code, private product code, customer information, employer information, proprietary workflows, or confidential business logic.
+Areas explored over time include:
+
+- Community and civic technology
+- Health and human services technology
+- Enterprise workflow automation
+- Reporting and analytics
+- Auditability and compliance
+- Data-informed decision support
+- Cloud application architecture
+
+- ## Repository Structure
+
+| Area | Description |
+|--------|-------------|
+| Architecture | Enterprise architecture and auditability concepts |
+| ASP.NET Core | MVC and application design patterns |
+| EF Core | Data modeling and persistence examples |
+| Testing | Automated testing and regression strategies |
+| Analytics | Dashboard and KPI design concepts |
+| Documentation | Technical writing and operational guidance |

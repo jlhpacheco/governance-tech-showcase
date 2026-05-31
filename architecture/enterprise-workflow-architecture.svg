@@ -1,0 +1,24 @@
+﻿<svg width="900" height="520" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="520" fill="#f8fafc"/>
+  <text x="450" y="45" text-anchor="middle" font-family="Arial" font-size="28" font-weight="bold">Enterprise Workflow Architecture</text>
+
+  <rect x="300" y="80" width="300" height="60" rx="12" fill="#ffffff" stroke="#1e293b"/>
+  <text x="450" y="118" text-anchor="middle" font-family="Arial" font-size="18">Users</text>
+
+  <rect x="300" y="170" width="300" height="60" rx="12" fill="#ffffff" stroke="#1e293b"/>
+  <text x="450" y="208" text-anchor="middle" font-family="Arial" font-size="18">Web Application</text>
+
+  <rect x="300" y="260" width="300" height="60" rx="12" fill="#ffffff" stroke="#1e293b"/>
+  <text x="450" y="298" text-anchor="middle" font-family="Arial" font-size="18">Business Services</text>
+
+  <rect x="300" y="350" width="300" height="60" rx="12" fill="#ffffff" stroke="#1e293b"/>
+  <text x="450" y="388" text-anchor="middle" font-family="Arial" font-size="18">Data Layer</text>
+
+  <rect x="300" y="440" width="300" height="60" rx="12" fill="#ffffff" stroke="#1e293b"/>
+  <text x="450" y="478" text-anchor="middle" font-family="Arial" font-size="18">Reporting & Analytics</text>
+
+  <text x="450" y="160" text-anchor="middle" font-family="Arial" font-size="24">↓</text>
+  <text x="450" y="250" text-anchor="middle" font-family="Arial" font-size="24">↓</text>
+  <text x="450" y="340" text-anchor="middle" font-family="Arial" font-size="24">↓</text>
+  <text x="450" y="430" text-anchor="middle" font-family="Arial" font-size="24">↓</text>
+</svg>

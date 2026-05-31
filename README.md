@@ -4,6 +4,19 @@ A collection of architecture patterns, analytics concepts, testing strategies, a
 
 This repository highlights approaches to building secure, auditable, and operationally effective systems using modern application development, cloud technologies, automated testing, and data-driven decision support.
 
+
+## Current Focus
+
+Areas currently being explored include:
+
+- Operational Analytics
+- Enterprise Reporting
+- Audit Logging
+- Automated Testing
+- Cloud Application Architecture
+- Data-Informed Decision Support
+- Governance-Oriented System Design
+
 ## Areas of Interest
 
 - Enterprise Architecture
@@ -40,3 +53,4 @@ Areas explored over time include:
 | Testing | Automated testing and regression strategies |
 | Analytics | Dashboard and KPI design concepts |
 | Documentation | Technical writing and operational guidance |
+

@@ -47,7 +47,7 @@
   <polygon points="600,650 592,637 608,637" fill="#64748b"/>
 
   <rect x="430" y="650" width="340" height="75" rx="16" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
-  <text x="600" y="679" text-anchor="middle" font-family="Segoe UI, Arial" font-size="20" font-weight="700" fill="#0f172a">Reporting & Metrics</text>
+  <text x="600" y="679" text-anchor="middle" font-family="Segoe UI, Arial" font-size="20" font-weight="700" fill="#0f172a">Reporting &amp; Metrics</text>
   <text x="600" y="706" text-anchor="middle" font-family="Segoe UI, Arial" font-size="14" fill="#475569">KPIs • Dashboards • Decision support</text>
 
   <rect x="65" y="245" width="250" height="205" rx="18" fill="#eef2ff" stroke="#c7d2fe"/>
@@ -64,4 +64,5 @@
   <text x="1010" y="375" text-anchor="middle" font-family="Segoe UI, Arial" font-size="14" fill="#475569">Exceptions</text>
   <text x="1010" y="405" text-anchor="middle" font-family="Segoe UI, Arial" font-size="14" fill="#475569">Operational insight</text>
 </svg>
+
 

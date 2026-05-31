@@ -2,7 +2,7 @@
 
 This diagram illustrates a non-confidential enterprise architecture pattern for systems that combine workflow management, auditability, reporting, analytics, and decision support.
 
-![Enterprise Operational Intelligence Architecture](enterprise-operational-intelligence-architecture.svg)
+![Enterprise Operational Intelligence Architecture](enterprise-operational-intelligence-architecture.png)
 
 ## What the Diagram Demonstrates
 
@@ -16,3 +16,4 @@ This diagram illustrates a non-confidential enterprise architecture pattern for 
 ## Design Intent
 
 This is an illustrative architecture pattern. It does not represent any private product, customer system, employer system, or proprietary workflow.
+
